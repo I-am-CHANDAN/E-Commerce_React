@@ -1,0 +1,7 @@
+E-Commerce App ):-
+
+1.We Will Use Context API
+2.React Router Dom
+3.we will make a Items component and reuse it in other components
+4.we will create context and use in other components
+5.
